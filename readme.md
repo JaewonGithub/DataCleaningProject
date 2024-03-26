@@ -1,7 +1,7 @@
 # Introduction
-Data Cleaning Using Microsoft SQL Server Management Studio on :house: housing data from Nashville 
+Data 🧹Cleaning Using Microsoft SQL Server Management Studio on :house: housing data from Nashville 
 <br><br/>
-Interested in the full SQL Query? Check it out [Here](https://github.com/JaewonGithub/DataCleaningProject/blob/main/NashvilleHousing%20Data%20Cleaning%20Project%20(SQL).sql)
+🔍 Interested in the full SQL Query? Check it out [Here](https://github.com/JaewonGithub/DataCleaningProject/blob/main/NashvilleHousing%20Data%20Cleaning%20Project%20(SQL).sql)
 # Background 
 The motivation behind undertaking a data cleaning project on Nashville Housing data lies in the need to understand and analyze the real estate landscape within Nashville comprehensively. This initiative not only ensures data accuracy but also sets the stage for in-depth analysis and visualization using business intelligence tools, potentially revealing actionable patterns and opportunities within Nashville's housing market.
 <br><br/>
