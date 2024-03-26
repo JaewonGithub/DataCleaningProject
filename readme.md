@@ -7,7 +7,7 @@ The motivation behind undertaking a data cleaning project on Nashville Housing d
 <br><br/>
 # Utilized Tools
 To enhance my process of data cleaning, I utilized several tools :
-- **SQL**: Serving as the language of my project, enabling me to modify and update raw data into useful standardized format.
+- **SQL**: Serves as the language of my project, enabling me to modify and update raw data into useful standardized format.
 - **Microsoft SQL Server Management Studio**: Tool for database management tasks and executing SQL queries.
 <br><br/>
 <br><br/>
